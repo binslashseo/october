@@ -7,5 +7,7 @@ the configs are provided for the following terminals:
 - konsole
 - xfce4-terminal
 - xterm/urxvt
-## screenshots
+## showcase
 ![screenshot](oct-prev.png)
+more screenshots would be much appreciated, open an issue if you're willing to provide one
+have fun!
