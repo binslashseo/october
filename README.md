@@ -8,3 +8,4 @@ the configs are provided for the following terminals:
 - xfce4-terminal
 - xterm/urxvt
 ## screenshots
+![screenshot](oct-prev.png)
