@@ -1,2 +1,4 @@
 # october
-a purple-ish colorscheme, focused on readability
+...is a purple-centered colorscheme with the main focus being readability.
+it's designed for basic, everyday terminal use.
+## screenshots
