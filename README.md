@@ -9,5 +9,7 @@ the configs are provided for the following terminals:
 - xterm/urxvt
 ## showcase
 ![screenshot](oct-prev.png)
+
 more screenshots would be much appreciated, open an issue if you're willing to provide one
+
 have fun!
